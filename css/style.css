@@ -43,4 +43,6 @@ h2{
     width: 20px;
     height: 15px;
 }
-
+.navbar-nav li a{
+    float: right;
+}
