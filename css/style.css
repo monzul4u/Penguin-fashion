@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    background-color: white;
+}
+.navbar-brand img{
+    max-height: 40px;
+}
+.navbar-brand{
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #683aa4;
+    
+}
+nav ul li a{
+    color: #a9a9a9;
+    font-size: 22px;
+    margin: auto 10px;
+       
+   
+}
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 30px;
+    
+}
+h1{
+    color: indianred;
+}
+.text-blue{
+    color: indigo;
+}
+.main{
+    background-color:mintcream
+}
+h2{
+    color: orangered;
+}
+
+
